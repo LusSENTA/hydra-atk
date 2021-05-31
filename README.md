@@ -5,7 +5,7 @@ Shell script to brute force login credentials with hydra.
 
 This script may not work with all hydra services. It works with ssh and ftp, but may not work with others.
 
-This script is built from https://github.com/LusSenta/sshatk (Another one of my scripts)
+This script is built from https://github.com/LusSenta/sshatk (The old version of this script.)
 
 I am in no way associated with hydra the hydra team or the hydra contributors.
 
