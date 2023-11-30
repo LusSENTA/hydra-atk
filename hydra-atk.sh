@@ -1,4 +1,4 @@
-# This script is not for illegal purposes
+# This script is NOT intended for ilegal purposes. Use at your own risk.
 
 read -p 'Please enter target IP ' entered_ip_var
 read -p 'What service to you want to attack? Example: ssh, ftp, etc ' service_var
